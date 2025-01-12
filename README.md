@@ -7,13 +7,7 @@ I'm Nahid (Anna), a passionate fullstack developer<br>
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=AnnaNajafiH&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- this is added for dark and light mood -->
@@ -28,9 +22,16 @@ I'm Nahid (Anna), a passionate fullstack developer<br>
 ![](https://github-readme-stats.vercel.app/api?username=AnnaNajafiH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnnaNajafiH&theme=dark&hide_border=false)<br/>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏆 GitHub Trophies
+---
+[![](https://visitcount.itsvg.in/api?id=AnnaNajafiH&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnnaNajafiH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNajafiH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNajafiH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10) -->
 
 
