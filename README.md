@@ -28,7 +28,7 @@ I'm Nahid (Anna), a passionate fullstack developer<br>
 ![](https://github-readme-stats.vercel.app/api?username=AnnaNajafiH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnnaNajafiH&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNajafiH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![PHP Progress](https://progress-bar.dev/85/?scale=100&title=PHP&width=200&color=7B8C8D&suffix=%)
 
 
 ## 🏆 GitHub Trophies
