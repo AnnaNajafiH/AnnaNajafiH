@@ -2,9 +2,9 @@
 Hi, I'm Nahid (Anna)👋</br>
 
 💻 Passionate Web & App Developer </br>
+🚀 Energized by challenges </br>
 🌱 Lifelong learner and eager to explore new technologies</br>
-🔧 Energized by challenges </br>
-🌟 A strong collaborator who believes in the power of innovation and teamwork</br>
+🤝 A strong collaborator who believes in the power of innovation and teamwork</br>
 
 
 # 💻 Tech Stack:
