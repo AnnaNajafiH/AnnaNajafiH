@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Nahid (Anna), a passionate fullstack developer<br>
+Hi, I'm Nahid (Anna)👋
+💻 Passionate Web & App Developer
+🌱 Enthusiastic Learner
+🔧 Energized by Challenges.
+🌟 Collaborator & Innovator.
 
 
 # 💻 Tech Stack:
